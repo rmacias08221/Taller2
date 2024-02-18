@@ -1,9 +1,9 @@
 # Taller 2: Despliegue de TensorFlow Extended (TFX) con Docker y Docker Compose
 
 ## Estudiantes
-Juan David Torres Jimenez
-William David Prada Buitrago
-Ricardo Macias Bohorquez
+- Juan David Torres Jimenez
+- William David Prada Buitrago
+- Ricardo Macias Bohorquez
 
 ## Descripción
 El proposito del taller es generar la configuración y el despliegue de un ambiente de desarrollo para proyectos de Machine Learning utilizando TensorFlow Extended (TFX), haciendo uso de Docker y Docker Compose para facilitar el proceso. Se explorará el despliegue de una imagen pre-construida de TensorFlow en un contenedor Docker, accediendo a Jupyter Notebook para ejecutar ejemplos prácticos de TensorFlow Data Validation (TFDV) y ML Metadata.
